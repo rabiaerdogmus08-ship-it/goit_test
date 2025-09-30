@@ -1,1 +1,2 @@
 # goit_test
+açıklama
